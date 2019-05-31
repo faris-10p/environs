@@ -1,0 +1,3 @@
+/subscriptions/85a54663-53ed-4427-b1a6-94ee114d4ffd/resourceGroups/asdasd-dau/providers/Microsoft.Compute/virtualMachines/dau-1
+/subscriptions/85a54663-53ed-4427-b1a6-94ee114d4ffd/resourceGroups/asdasd-dau/providers/Microsoft.Compute/virtualMachines/dau-2 
+/subscriptions/85a54663-53ed-4427-b1a6-94ee114d4ffd/resourceGroups/asdasd-dau/providers/Microsoft.Compute/virtualMachines/dau-3
